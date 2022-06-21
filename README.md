@@ -7,8 +7,8 @@ Solutions to fun problems with Python
 - array
 - bits
 - graph
+- hashtable
 - matrix
-- other
 - queue
 - stack
 - string
