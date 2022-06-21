@@ -1,5 +1,8 @@
-from typing import List
+"""two_sum,py
 
+Find two numbers from an array that equal target num
+"""
+from typing import List
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
