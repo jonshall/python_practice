@@ -1,3 +1,7 @@
+"""strobogrammatic_num.py
+
+determine if string is a strobogrammatic number
+"""
 class Solution(object):
     def StrobogrammaticNum(self, num):
         maps = {("0", "0"), ("1", "1"), ("6", "9"), ("8", "8"), ("9", "6")}

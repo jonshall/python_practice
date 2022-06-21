@@ -1,3 +1,7 @@
+"""snakes_and_ladders.py
+
+Simulate chutes and ladders game
+"""
 import collections
 from typing import List
 

@@ -1,3 +1,7 @@
+"""binart_tree_zigzag_traversal.py
+
+Given the root of a binary tree, return the zigzag level order traversal of its nodes’ values
+"""
 from collections import deque
 
 class Solution:

@@ -1,3 +1,7 @@
+"""find_dup_num.py
+
+Find and return the duplicate number
+"""
 class Solution:
     def FindDuplicate(self, nums):
         # Find the intersection point of the two runners

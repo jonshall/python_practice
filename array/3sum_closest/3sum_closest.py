@@ -1,3 +1,8 @@
+"""2sum_closest.py
+
+find three integers in nums such that the sum is closest to target
+"""
+
 from typing import List
 
 class Solution:

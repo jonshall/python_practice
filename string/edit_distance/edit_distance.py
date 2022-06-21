@@ -1,3 +1,7 @@
+"""edit_distance.py
+
+convert two strings into one using the minimum number of operations
+"""
 class Solution(object):
     def MinDistance(self, word1, word2):
         n = len(word1)+1

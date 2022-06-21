@@ -1,3 +1,7 @@
+"""merge_sorted_array.py
+
+Soft and merge the given array by n numbers
+"""
 from typing import List
 
 class Solution:

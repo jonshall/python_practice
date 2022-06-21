@@ -1,3 +1,7 @@
+"""daily_temps.py
+
+the number of days you have to wait after the ith day to get a warmer temperature
+"""
 class Solution(object):
     def dailyTemperatures(self, temperatures):
       num_temps = len(temperatures)
