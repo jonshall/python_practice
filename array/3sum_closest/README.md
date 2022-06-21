@@ -6,7 +6,9 @@ Given an integer array ```nums``` of length ```n``` and an integer ```target```,
 
 ### Example Input
 
-nums = [-1,2,1,-4], target = 1
+nums = [-1,2,1,-4]
+
+target = 1
 
 ### Example Output
 
